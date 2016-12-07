@@ -16,3 +16,6 @@ npm run build
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](https://vue-loader.vuejs.org/en/).
+
+More Documentations:
+[Element.io](http://element.eleme.io/#/en-US)
