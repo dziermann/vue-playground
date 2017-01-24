@@ -1,12 +1,10 @@
 import Vue from 'vue';
-
-import ElementUI from 'element-ui';
-import 'element-ui/lib/theme-default/index.css';
+import 'vue-material/dist/vue-material.css';
+import VueMaterial from 'vue-material';
 
 import App from './App';
 
-Vue.use(ElementUI);
-
+Vue.use(VueMaterial);
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
