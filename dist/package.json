@@ -1,0 +1,10 @@
+{
+  "name": "vueplayground",
+  "version": "1.0.0",
+  "description": "Vue.js Playground",
+  "author": "Dino Ziermann <dinoziermann@gmail.com>",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
